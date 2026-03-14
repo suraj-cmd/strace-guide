@@ -1,5 +1,7 @@
 # Strace कसं काम करतं
 
+![Strace Logo](Strace_logo.svg)
+
 ## मूळ concept
 
 strace म्हणजे **System Call Tracer**. जेव्हा कोणताही program चालतो, तो Linux kernel ला requests पाठवतो — या requests ला **system calls** म्हणतात. strace या सगळ्या calls intercept करून तुला दाखवतो.
