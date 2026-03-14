@@ -1,6 +1,8 @@
 # Strace कसं काम करतं
 
-![Strace Logo](Strace_logo.svg)
+<p align="center">
+  <img src="Strace_logo.png" width="300" alt="Strace Logo">
+</p>
 
 ## मूळ concept
 
